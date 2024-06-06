@@ -1,0 +1,11 @@
+{
+  "name": "rentstat",
+  "version": "1.0.0",
+  "description": "Stats for apartment rent in Prague",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
